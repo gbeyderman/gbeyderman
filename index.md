@@ -16,7 +16,7 @@ This project is structured as follows:
 4.   Model Evaluation
 5.   Machine Learning Models
 
-**Data Dictionary**:
+## Data Dictionary
 
 The original Kaggle dataset featured the following variables:
 * Name of the Listing - a free text field with values such as "Clean & quiet apt home by the park"
@@ -31,3 +31,7 @@ The original Kaggle dataset featured the following variables:
 * Reviews Per Month - an aggregate field showing the the mean number of reviews for the months the listing was active.
 * Calculated Listings Count - the number of other listings offered by the host.
 * Avalability 365 - the number of days when listing is available for booking
+
+![](https://github.com/gbeyderman/gbeyderman/blob/gh-pages/images/download%20(1).png)
+
+
