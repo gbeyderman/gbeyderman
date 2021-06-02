@@ -33,6 +33,6 @@ The original Kaggle dataset featured the following variables:
 * Avalability 365 - the number of days when listing is available for booking
 
 
-![](https://github.com/gbeyderman/gbeyderman/blob/gh-pages/images/download%20(1).png)
+![](images/download%20(1).png)
 
-![](https://github.com/gbeyderman/gbeyderman/blob/gh-pages/images/download%20(2).png)
+![](images/download%20(2).png)
