@@ -1,4 +1,4 @@
-## Welcome to Gamliel Beyderman's Data Science Portfolio
+## Gamliel Beyderman's Data Science Portfolio
 
 ### Modeling the Price of Airbnb Listings
 
