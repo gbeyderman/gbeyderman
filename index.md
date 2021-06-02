@@ -31,7 +31,8 @@ The original Kaggle dataset featured the following variables:
 * Reviews Per Month - an aggregate field showing the the mean number of reviews for the months the listing was active.
 * Calculated Listings Count - the number of other listings offered by the host.
 * Avalability 365 - the number of days when listing is available for booking
+* 
 
 ![](https://github.com/gbeyderman/gbeyderman/blob/gh-pages/images/download%20(1).png)
 
-
+![](https://github.com/gbeyderman/gbeyderman/blob/gh-pages/images/download%20(2).png)
