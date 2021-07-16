@@ -36,3 +36,14 @@ The original Kaggle dataset featured the following variables:
 ![](images/download%20(1).png)
 
 ![](images/download%20(2).png)
+
+
+### Purchase Modeling using Clickstream Data and Markov Chains
+
+
+One of the key questions for a business owner selling products online is, How to recognize the web site browsers who will convert to customers? 
+As the owner of an escape room in Brooklyn, I am no exception. In what will follow I will try to show how to use a technique we extensively discussed to try to answer this very question!
+
+Imagine having a very nice day and feeling happy, and for some unknown reason, only possessing the emotional capacity to either be happy or sad. Can you predict what your feelings will be tomorrow? We know that our feelings tomorrow will be dependent on our feelings today; a function where the input is today’s mood and only today’s mood. Or in other words, a Markov chain! Usually, a web site user considering a product might either add the product to the shopping cart, view detailed product pages, scroll further down the main page. The probability for a transition to either of the possible next states depends on the mode (browsing, buying...) the user is currently in. This mode can be identified when considering the recent k states (pages) of a user rather than only the last state. Higher-order Markov chains are hence more promising when analyzing clickstream data.
+
+The Markov property specifies that the probability of a state depends only on the probability of the previous state. We can build more “memory” into our states by using a higher order Markov model: ![image](https://user-images.githubusercontent.com/7216946/126002980-27c5d7e7-8dd2-42a8-a227-40428a16831b.png)
