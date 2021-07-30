@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gbeyderman AKA Gamliel Beyderman
 - 👀 I’m interested in marketing applications of data science. I am in a 'cautious' job search mode.
 - 🌱 I’m currently reading https://arbital.com/p/bayes_ordinary_claims/?pathId=59668. 
-- ⚽ Data Sci Portfolio: [Here](https://github.com/gbeyderman/gbeyderman/blob/gh-pages/Airbnb_Price.ipynb)
+- ⚽ Data Sci Portfolio: [Here](https://github.com/gbeyderman/gbeyderman/blob/gh-pages/Airbnb_Price.ipynb) [Here](https://github.com/gbeyderman/gbeyderman/blob/gh-pages/Purchase Modeling using Clickstream Data and Markov Chains.pdf)
 - 💞️ I’m looking to collaborate on using escape rooms for business and life coaching. I own an Escape Room in Brooklyn, NY ranked as #1 in Fun and Games on TripAdvisor.
 - 📫 How to reach me: gbeyderman@gmail.com
 
