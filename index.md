@@ -63,5 +63,20 @@ Simplified States for 7 days:
 * Purchase (Buy) 
 * Leave without Buying (Defer)
 
+
 ![image](https://user-images.githubusercontent.com/7216946/127704292-e4f684eb-a38a-4df2-a929-e3e350f48a36.png)
+
+
+Fitting a Markov Chain to the clickstream data in R produces a Transitional Probabilities Matrix:
+
+![image](https://user-images.githubusercontent.com/7216946/127704619-8939a94f-1e10-4e14-a8e1-267f738dac0a.png)
+
+
+![image](https://user-images.githubusercontent.com/7216946/127704692-1c66561b-1b0c-4247-b54d-fa316b20c3be.png)
+
+
+We are interested in those clicks just before a final decision (buy or defer). Each clickstream hence has an absorbing state which is either "Buy" or "Defer". If we know the probability B that our clickstreams will be absorbed in any of the possible absorbing states, we can use this information to more accurately predict the next click.
+
+
+
 
