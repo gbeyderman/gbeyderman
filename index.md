@@ -49,3 +49,19 @@ Imagine having a very nice day and feeling happy, and for some unknown reason, o
 The Markov property specifies that the probability of a state depends only on the probability of the previous state. We can build more “memory” into our states by using a higher order Markov model: 
 
 ![image](https://user-images.githubusercontent.com/7216946/126002980-27c5d7e7-8dd2-42a8-a227-40428a16831b.png)
+
+A clickstream is a sequence of click events for exactly one web session. The clickstreams of different sessions typically differ in type and number of click events. Each click event is of type _character_. The clickstreams for a particular session can then be modeled as a vector, whereas a collection of clickstreams can be modeled as a list in R. The package _clickstream_ provides an S3 class for storing lists of vectors of click events.
+
+Simplified States for 7 days: 
+* /home 
+* 25% page scroll
+* 50% page scroll
+* 75% page scroll
+* 100% page scroll
+* 2 Product Detail pages
+* 2 Product Checkout pages 
+* Purchase (Buy) 
+* Leave without Buying (Defer)
+
+![image](https://user-images.githubusercontent.com/7216946/127704292-e4f684eb-a38a-4df2-a929-e3e350f48a36.png)
+
