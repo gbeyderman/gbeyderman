@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gbeyderman AKA Gamliel Beyderman
 - 👀 I’m interested in marketing applications of data science.
-- 🌱 I’m currently reading https://arbital.com/p/bayes_ordinary_claims/?pathId=59668. 
+- 🌱 I’m currently reading 
 - ⚽ Data Sci Portfolio: [Here](https://github.com/gbeyderman/gbeyderman/blob/gh-pages/Airbnb_Price.ipynb) [And Here](https://github.com/gbeyderman/gbeyderman/blob/gh-pages/Purchase_Modeling_using_Clickstream_Data_and_Markov_Chains.pdf) 
 - 📫 How to reach me: gbeyderman@gmail.com
 
